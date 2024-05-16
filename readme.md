@@ -20,7 +20,7 @@ This is a simple Node.js application that serves random dad jokes using the [API
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/random-joke-api.git
+    git clone https://github.com/Lovenoelkujur/randomjoke-api.git
     cd random-joke-api
     ```
 
