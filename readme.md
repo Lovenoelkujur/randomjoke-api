@@ -30,7 +30,6 @@ This is a simple Node.js application that serves random dad jokes using the [API
 3. Create a `.env` file in the root of the project and add your API keys:
 
     ```sh
-    UNSPLASH_ACCESS_KEY=your_unsplash_access_key
     API_NINJA_X_API_KEY=your_api_ninja_x_api_key
     ```
 
@@ -75,8 +74,6 @@ Fetch a random dad joke.
   } 
 
 ## Environment Variables
-
-- `UNSPLASH_ACCESS_KEY`: Your Unsplash API access key (not currently used in the provided code, but reserved for future use)
 
 - `API_NINJA_X_API_KEY`: Your API Ninja X API key
 

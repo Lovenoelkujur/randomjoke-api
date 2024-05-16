@@ -5,8 +5,6 @@ const axios = require("axios");
 dotenv.config();
 
 const PORT = 9000;
-const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
-
 
 const app = express();
 
