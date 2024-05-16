@@ -2,6 +2,9 @@
 
 This is a simple Node.js application that serves random dad jokes using the [API Ninja](https://api-ninjas.com/api/dadjokes) service. It uses Express for handling HTTP requests and Axios for making API calls.
 
+## Screenshort
+![img](Screenshort.png)
+
 ## Features
 
 - Fetch a random dad joke
